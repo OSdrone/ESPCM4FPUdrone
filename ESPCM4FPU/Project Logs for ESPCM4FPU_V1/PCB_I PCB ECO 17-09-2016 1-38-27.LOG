@@ -1,0 +1,4 @@
+Removed Member From Class: ClassName=Procesador Auxiliar Member=R_I1
+Removed Member From Class: ClassName=Procesador Auxiliar Member=R_I2
+Added Member To Class: ClassName=Procesador Principal Member=Component R_I1 Res1
+Added Member To Class: ClassName=Procesador Principal Member=Component R_I2 Res1

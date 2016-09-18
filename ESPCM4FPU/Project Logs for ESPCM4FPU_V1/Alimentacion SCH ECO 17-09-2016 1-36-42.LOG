@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=R12 Old Footprint=C0805 New Footprint=C1206
+Change Component Footprint: Designator=R_I1 Old Footprint=C1206 New Footprint=6-0805_N
+Change Component Footprint: Designator=R_I2 Old Footprint=C1206 New Footprint=6-0805_N
+Change Component Footprint: Designator=R10 Old Footprint=C1206 New Footprint=C0805

@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=5V_VCC_F Pin=C9-1
+Removed Pin From Net: NetName=5V_VCC_F Pin=C10-1
+Removed Pin From Net: NetName=5V_VCC Pin=F1-1
+Removed Pin From Net: NetName=5V_VCC_F Pin=F1-2
+Removed Pin From Net: NetName=5V_VCC_F Pin=Q1-2
+Removed Pin From Net: NetName=5V_VCC_F Pin=VR2-3
+Removed Member From Class: ClassName=Alimentacion Member=F1
+Added Pin To Net: NetName=5V_VCC Pin=C9-1
+Added Pin To Net: NetName=5V_VCC Pin=C10-1
+Added Pin To Net: NetName=5V_VCC Pin=Q1-2
+Added Pin To Net: NetName=5V_VCC Pin=VR2-3

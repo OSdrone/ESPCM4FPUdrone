@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=Y3 Old Footprint=4SMX New Footprint=BCY-W2/E4.7
+Change Component Designator: OldDesignator=CHNLS NewDesignator=CHNLS1
+Change Component Designator: OldDesignator=ICSP NewDesignator=ICSP1
+Added Component: Designator=R16(C1206)
+Added Pin To Net: NetName=3.3_VCC_MICRO Pin=R16-1
+Added Pin To Net: NetName=RST_IC Pin=R16-2
+Added Member To Class: ClassName=Procesador Auxiliar Member=Component R16 Res1

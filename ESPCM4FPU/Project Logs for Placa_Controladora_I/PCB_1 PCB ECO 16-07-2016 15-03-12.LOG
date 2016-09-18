@@ -1,0 +1,11 @@
+Added Component: Designator=JTAG1(HDR2X5)
+Added Pin To Net: NetName=5V_VCC Pin=JTAG1-1
+Added Pin To Net: NetName=TMS Pin=JTAG1-2
+Added Pin To Net: NetName=GND Pin=JTAG1-3
+Added Pin To Net: NetName=TCK Pin=JTAG1-4
+Added Pin To Net: NetName=GND Pin=JTAG1-5
+Added Pin To Net: NetName=TDO Pin=JTAG1-6
+Added Pin To Net: NetName=TDIO Pin=JTAG1-8
+Added Pin To Net: NetName=GND Pin=JTAG1-9
+Added Pin To Net: NetName=RST_SW Pin=JTAG1-10
+Added Member To Class: ClassName=Procesador Principal Member=Component JTAG1 Header 5X2

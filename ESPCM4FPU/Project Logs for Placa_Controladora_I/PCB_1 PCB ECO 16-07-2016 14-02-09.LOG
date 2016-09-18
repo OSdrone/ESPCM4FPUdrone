@@ -1,0 +1,32 @@
+Added Component: Designator=C1(C0805)
+Added Component: Designator=C2(C0805)
+Added Component: Designator=C3(C0805)
+Added Component: Designator=C4(C0805)
+Added Component: Designator=U1(SQFP50P1200X1200-64L)
+Added Component: Designator=Y2(BCY-W2/D2.1)
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Pin To Net: NetName=GND Pin=U1-12
+Added Pin To Net: NetName=GND Pin=U1-27
+Added Pin To Net: NetName=GND Pin=U1-35
+Added Pin To Net: NetName=GND Pin=U1-39
+Added Pin To Net: NetName=GND Pin=U1-55
+Added Net: Name=GND
+Added Pin To Net: NetName=OSC0 Pin=C1-2
+Added Pin To Net: NetName=OSC0 Pin=U1-40
+Added Net: Name=OSC0
+Added Pin To Net: NetName=OSC1 Pin=C2-1
+Added Pin To Net: NetName=OSC1 Pin=U1-41
+Added Net: Name=OSC1
+Added Pin To Net: NetName=XOSC0 Pin=C3-2
+Added Pin To Net: NetName=XOSC0 Pin=U1-34
+Added Pin To Net: NetName=XOSC0 Pin=Y2-2
+Added Net: Name=XOSC0
+Added Pin To Net: NetName=XOSC1 Pin=C4-1
+Added Pin To Net: NetName=XOSC1 Pin=U1-36
+Added Pin To Net: NetName=XOSC1 Pin=Y2-1
+Added Net: Name=XOSC1
+Added Class: Name=Procesador Principal

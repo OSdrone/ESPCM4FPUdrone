@@ -1,0 +1,14 @@
+Added Component: Designator=P1(SMD_HEADER 5x2)
+Added Pin To Net: NetName=U7RX Pin=P1-1
+Added Pin To Net: NetName=U7TX Pin=P1-2
+Added Pin To Net: NetName=GND_BAT Pin=P1-3
+Added Pin To Net: NetName=5V_VCC Pin=P1-4
+Added Pin To Net: NetName=CE_SPI_0 Pin=P1-5
+Added Pin To Net: NetName=CLK_SPI_0 Pin=P1-6
+Added Pin To Net: NetName=IRQ_SPI_0 Pin=P1-7
+Added Pin To Net: NetName=FSS_SPI_0 Pin=P1-8
+Added Pin To Net: NetName=TX_SPI_0 Pin=P1-9
+Added Pin To Net: NetName=RX_SPI_0 Pin=P1-10
+Added Member To Class: ClassName=Procesador Principal Member=Component P1 Header 5X2
+Added Room: Name=Procesador Auxiliar
+Added Room: Name=Procesador Principal

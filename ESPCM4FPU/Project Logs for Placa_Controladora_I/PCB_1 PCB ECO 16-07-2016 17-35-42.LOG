@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=5V_VCC Pin=P2-3
+Added Pin To Net: NetName=5V_VCC_F Pin=P2-3
+Added Pin To Net: NetName=I2C0_SDA Pin=U1-48

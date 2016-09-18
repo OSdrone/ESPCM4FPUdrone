@@ -1,0 +1,24 @@
+Added Component: Designator=U4(QFN-24/3MM)
+Added Component: Designator=U5(LGA-8_BMP280(Primary))
+Added Pin To Net: NetName=GND Pin=U4-0
+Added Pin To Net: NetName=GND Pin=U4-2
+Added Pin To Net: NetName=GND Pin=U4-3
+Added Pin To Net: NetName=GND Pin=U4-4
+Added Pin To Net: NetName=GND Pin=U4-5
+Added Pin To Net: NetName=GND Pin=U4-6
+Added Pin To Net: NetName=3.3_VCC Pin=U4-8
+Added Pin To Net: NetName=NetR17_1 Pin=U4-9
+Added Pin To Net: NetName=NetC23_2 Pin=U4-10
+Added Pin To Net: NetName=3.3_VCC Pin=U4-13
+Added Pin To Net: NetName=GND Pin=U4-18
+Added Pin To Net: NetName=I2C0_SCL Pin=U4-23
+Added Pin To Net: NetName=I2C0_SDA Pin=U4-24
+Added Pin To Net: NetName=GND Pin=U5-1
+Added Pin To Net: NetName=NetR19_1 Pin=U5-2
+Added Pin To Net: NetName=I2C0_SDA Pin=U5-3
+Added Pin To Net: NetName=I2C0_SCL Pin=U5-4
+Added Pin To Net: NetName=3.3_VCC Pin=U5-6
+Added Pin To Net: NetName=GND Pin=U5-7
+Added Pin To Net: NetName=3.3_VCC Pin=U5-8
+Added Member To Class: ClassName=Sensores Member=Component U4 GYRO/ACCEL/COMPASS/9-AXIS
+Added Member To Class: ClassName=Sensores Member=Component U5 BMP280

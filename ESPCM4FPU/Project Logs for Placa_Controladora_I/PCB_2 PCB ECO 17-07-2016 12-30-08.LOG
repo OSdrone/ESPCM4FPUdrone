@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=NetR17_1 Pin=U4-9
+Removed Pin From Net: NetName=NetC23_2 Pin=U4-10
+Removed Pin From Net: NetName=3.3_VCC Pin=U4-13
+Removed Pin From Net: NetName=NetR17_1 Pin=U4-22
+Removed Pin From Net: NetName=I2C0_SCL Pin=U4-23
+Removed Pin From Net: NetName=I2C0_SDA Pin=U4-24
+Removed Member From Class: ClassName=Sensores Member=U4
+Added Component: Designator=U?(QFN-24/3MM)
+Added Pin To Net: NetName=3.3_VCC Pin=U?-1
+Added Pin To Net: NetName=3.3_VCC Pin=U?-8
+Added Pin To Net: NetName=NetR17_1 Pin=U?-9
+Added Pin To Net: NetName=NetC23_2 Pin=U?-10
+Added Pin To Net: NetName=3.3_VCC Pin=U?-13
+Added Pin To Net: NetName=GND Pin=U?-18
+Added Pin To Net: NetName=GND Pin=U?-20
+Added Pin To Net: NetName=NetR17_1 Pin=U?-22
+Added Pin To Net: NetName=I2C0_SCL Pin=U?-23
+Added Pin To Net: NetName=I2C0_SDA Pin=U?-24
+Added Pin To Net: NetName=OSC0 Pin=Y1-2
+Added Member To Class: ClassName=Sensores Member=Component U? GYRO/ACCEL/COMPASS/9-AXIS

@@ -1,0 +1,4 @@
+Remove Pin=C24-2 From Net=RST_SW
+Change Component Footprint: Designator=R_I1 Old Footprint=6-0805_N New Footprint=C1206
+Change Component Footprint: Designator=R_I2 Old Footprint=6-0805_N New Footprint=C1206
+Change Component Footprint: Designator=R_RST1 Old Footprint=C0805 New Footprint=C1206

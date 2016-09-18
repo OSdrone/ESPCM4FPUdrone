@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=3.3_VCC_BAT Pin=IC1-1
+Removed Pin From Net: NetName=3.3_VCC_BAT Pin=IC1-1
+Removed Member From Class: ClassName=Sensores Member=IC1
+Added Component: Designator=IC*(ESP8266 ESP-ANTENNA)
+Added Pin To Net: NetName=3.3_VCC_BAT Pin=IC*-8
+Added Member To Class: ClassName=Sensores Member=Component IC* ESP8266 ESP-09

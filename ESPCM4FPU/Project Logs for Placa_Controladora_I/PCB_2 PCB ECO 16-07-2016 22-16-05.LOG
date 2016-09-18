@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=IRQ_SPI_0 Pin=P1-3
+Removed Pin From Net: NetName=CE_SPI_0 Pin=P1-4
+Added Pin To Net: NetName=CE_SPI_0 Pin=P1-3
+Added Pin To Net: NetName=IRQ_SPI_0 Pin=P1-4
+Added Pin To Net: NetName=OSC0 Pin=Y1-2

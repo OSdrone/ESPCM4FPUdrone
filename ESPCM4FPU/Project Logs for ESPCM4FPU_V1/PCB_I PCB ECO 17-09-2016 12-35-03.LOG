@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=GND Pin=IC*-9
+Removed Pin From Net: NetName=U1TX Pin=IC*-10
+Removed Pin From Net: NetName=U1RX Pin=IC*-11
+Removed Member From Class: ClassName=Sensores Member=IC*
+Added Component: Designator=IC1(ESP8266 ESP-ANTENNA)
+Added Pin To Net: NetName=3.3_VCC Pin=IC1-8
+Added Pin To Net: NetName=GND Pin=IC1-9
+Added Pin To Net: NetName=U1TX Pin=IC1-15
+Added Pin To Net: NetName=U1RX Pin=IC1-16
+Added Member To Class: ClassName=Sensores Member=Component IC1 ESP8266 ESP-07

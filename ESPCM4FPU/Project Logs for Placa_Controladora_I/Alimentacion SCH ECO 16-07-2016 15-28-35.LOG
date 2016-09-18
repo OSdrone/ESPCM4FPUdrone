@@ -1,0 +1,11 @@
+Remove Pin=P1-1 From Net=U7RX
+Remove Pin=P1-2 From Net=U7TX
+Remove Pin=P1-5 From Net=CE_SPI_0
+Remove Pin=P1-6 From Net=CLK_SPI_0
+Remove Pin=P1-7 From Net=IRQ_SPI_0
+Remove Pin=P1-8 From Net=FSS_SPI_0
+Remove Pin=P1-9 From Net=TX_SPI_0
+Remove Pin=P1-10 From Net=RX_SPI_0
+Change Component Footprint: Designator=Y3 Old Footprint=BCY-W2/E4.7 New Footprint=4SMX
+Change Component Designator: OldDesignator=CHNLS1 NewDesignator=CHNLS
+Change Component Designator: OldDesignator=ICSP1 NewDesignator=ICSP

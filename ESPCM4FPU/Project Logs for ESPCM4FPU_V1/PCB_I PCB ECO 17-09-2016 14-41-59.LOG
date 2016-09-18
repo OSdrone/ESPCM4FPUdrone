@@ -1,0 +1,10 @@
+Added Component: Designator=P3(HDR2X4)
+Added Pin To Net: NetName=U1TX Pin=P3-1
+Added Pin To Net: NetName=I2C0_SDA Pin=P3-2
+Added Pin To Net: NetName=U1RX Pin=P3-3
+Added Pin To Net: NetName=I2C0_SCL Pin=P3-4
+Added Pin To Net: NetName=3.3_VCC Pin=P3-5
+Added Pin To Net: NetName=3.3_VCC Pin=P3-6
+Added Pin To Net: NetName=GND Pin=P3-7
+Added Pin To Net: NetName=GND Pin=P3-8
+Added Member To Class: ClassName=Procesador Principal Member=Component P3 Header 4X2

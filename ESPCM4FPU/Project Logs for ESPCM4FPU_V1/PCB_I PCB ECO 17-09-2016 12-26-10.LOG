@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=GND Pin=IC*-9
+Added Pin To Net: NetName=U1TX Pin=IC*-10
+Added Pin To Net: NetName=U1RX Pin=IC*-11

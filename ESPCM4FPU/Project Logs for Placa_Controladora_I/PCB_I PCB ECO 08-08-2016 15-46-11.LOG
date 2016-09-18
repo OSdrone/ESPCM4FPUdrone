@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=3.3_VCC Pin=U4-1
+Removed Pin From Net: NetName=GND Pin=U4-20
+Removed Pin From Net: NetName=NetR17_1 Pin=U4-22
+Change Component Designator: OldDesignator=3V3 NewDesignator=3
+Change Component Designator: OldDesignator=3V3_uP NewDesignator=4
+Change Component Designator: OldDesignator=5VCC_BAT NewDesignator=2
+Change Component Designator: OldDesignator=12V NewDesignator=1
+Change Component Designator: OldDesignator=P_I2C1 NewDesignator=P_I1
+Added Component: Designator=R19(C0805)
+Added Component: Designator=R20(6-0805_L)
+Added Component: Designator=U5(LGA-8_BMP280(Primary))
+Added Pin To Net: NetName=3.3_VCC Pin=R19-2
+Added Pin To Net: NetName=GND Pin=R20-2
+Added Pin To Net: NetName=GND Pin=U4-0
+Added Pin To Net: NetName=GND Pin=U5-1
+Added Pin To Net: NetName=I2C0_SDA Pin=U5-3
+Added Pin To Net: NetName=I2C0_SCL Pin=U5-4
+Added Pin To Net: NetName=3.3_VCC Pin=U5-6
+Added Pin To Net: NetName=GND Pin=U5-7
+Added Pin To Net: NetName=3.3_VCC Pin=U5-8
+Added Pin To Net: NetName=NetR19_1 Pin=R19-1
+Added Pin To Net: NetName=NetR19_1 Pin=R20-1
+Added Pin To Net: NetName=NetR19_1 Pin=U5-2
+Added Net: Name=NetR19_1
+Added Member To Class: ClassName=Sensores Member=Component R19 Res1
+Added Member To Class: ClassName=Sensores Member=Component R20 Res1
+Added Member To Class: ClassName=Sensores Member=Component U5 BMP280

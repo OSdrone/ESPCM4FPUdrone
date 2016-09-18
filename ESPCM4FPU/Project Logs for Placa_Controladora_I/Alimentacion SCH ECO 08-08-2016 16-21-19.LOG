@@ -1,0 +1,9 @@
+Change Component Footprint: Designator=R18 Old Footprint=6-0805_L New Footprint=C1206
+Change Component Footprint: Designator=J1 Old Footprint=353576 New Footprint=Micro USB
+Change Component Footprint: Designator=R10 Old Footprint=C0805 New Footprint=C1206
+Change Component Footprint: Designator=R_I1 Old Footprint=C0805 New Footprint=C1206
+Change Component Footprint: Designator=R_I2 Old Footprint=C0805 New Footprint=C1206
+Change Component Footprint: Designator=C17 Old Footprint=C1206 New Footprint=C0805
+Change Component Footprint: Designator=R12 Old Footprint=C1206 New Footprint=C0805
+Change Component Footprint: Designator=R13 Old Footprint=C1206 New Footprint=C0805
+Change Component Footprint: Designator=R16 Old Footprint=C1206 New Footprint=C0805

@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=U7RX Pin=P1-1
+Removed Pin From Net: NetName=U7TX Pin=P1-2
+Removed Pin From Net: NetName=GND_BAT Pin=P1-3
+Removed Pin From Net: NetName=5V_VCC Pin=P1-4
+Removed Pin From Net: NetName=CE_SPI_0 Pin=P1-5
+Removed Pin From Net: NetName=IRQ_SPI_0 Pin=P1-7
+Added Pin To Net: NetName=GND_BAT Pin=P1-1
+Added Pin To Net: NetName=5V_VCC Pin=P1-2
+Added Pin To Net: NetName=IRQ_SPI_0 Pin=P1-3
+Added Pin To Net: NetName=CE_SPI_0 Pin=P1-4
+Added Pin To Net: NetName=U7RX Pin=P1-5
+Added Pin To Net: NetName=U7TX Pin=P1-7

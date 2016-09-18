@@ -1,0 +1,3 @@
+Added Component: Designator=IC1(ESP8266 ESP-08)
+Added Pin To Net: NetName=3.3_VCC_BAT Pin=IC1-1
+Added Member To Class: ClassName=Sensores Member=Component IC1 ESP8266 ESP-07
