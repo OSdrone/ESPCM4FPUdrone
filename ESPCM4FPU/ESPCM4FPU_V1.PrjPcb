@@ -124,7 +124,7 @@ GenerateClassCluster=0
 DocumentUniqueId=GVXVAJJD
 
 [Document6]
-DocumentPath=..\..\..\..\..\Librerias Altium\ESP8266-master\ESP8266.PcbLib
+DocumentPath=..\..\..\..\..\..\Librerias Altium\Libreria Ruben\Sensores\BMP280.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -141,7 +141,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7]
-DocumentPath=..\..\..\..\..\Librerias Altium\ESP8266-master\ESP8266.SchLib
+DocumentPath=..\..\..\..\..\..\Librerias Altium\Libreria Ruben\Sensores\BMP280.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -158,7 +158,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8]
-DocumentPath=..\..\..\..\..\Librerias Altium\Imported MPU-6050.lia\MPU-6050.PcbLib
+DocumentPath=..\..\..\..\..\..\Librerias Altium\Libreria Ruben\Sensores\MPU-9250.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -175,7 +175,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document9]
-DocumentPath=..\..\..\..\..\Librerias Altium\Imported MPU-6050.lia\MPU-6050.SchLib
+DocumentPath=..\..\..\..\..\..\Librerias Altium\Libreria Ruben\Sensores\MPU-9250.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -192,7 +192,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document10]
-DocumentPath=..\..\..\..\..\Librerias Altium\Libreria Ruben\Sensores\BMP280.PcbLib
+DocumentPath=..\..\..\..\..\..\Librerias Altium\Libreria Ruben\ARM.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -209,7 +209,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document11]
-DocumentPath=..\..\..\..\..\Librerias Altium\Libreria Ruben\Sensores\BMP280.SchLib
+DocumentPath=..\..\..\..\..\..\Librerias Altium\Libreria Ruben\Conectores.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -226,7 +226,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document12]
-DocumentPath=..\..\..\..\..\Librerias Altium\Libreria Ruben\Sensores\MPU-9250.PCBLIB
+DocumentPath=..\..\..\..\..\..\Librerias Altium\ESP8266-master\ESP8266.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -243,7 +243,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document13]
-DocumentPath=..\..\..\..\..\Librerias Altium\Libreria Ruben\Sensores\MPU-9250.SCHLIB
+DocumentPath=..\..\..\..\..\..\Librerias Altium\ESP8266-master\ESP8266.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
